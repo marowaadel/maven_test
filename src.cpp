@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    int w;
-    cin>>w;
+    int w=6;
+    //cin>>w;
     if (w == 2)
          cout << "no" <<endl;
     else if(w%2==0)
